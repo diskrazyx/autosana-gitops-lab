@@ -1,0 +1,7 @@
+key: search
+name: Search an article
+app: Wikipedia
+labels: [smoke]
+instructions:
+  - Type "Paris" in the search box and submit
+  - Verify the Paris article title is shown
