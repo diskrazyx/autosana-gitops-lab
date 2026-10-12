@@ -1,0 +1,6 @@
+key: checkout
+app: Wikipedia
+labelz: [smoke]
+instructions:
+  - Open the main page
+  - Tap random article
