@@ -1,0 +1,5 @@
+name: Smoke
+description: Critical-path checks
+flows: [search, smoke/language]
+setup_hooks:
+  - reset-state
