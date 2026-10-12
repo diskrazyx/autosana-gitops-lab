@@ -1,0 +1,4 @@
+name: Switch language
+instructions: |
+  Click the "Français" link on the portal.
+  Verify the French Wikipedia home page loads.
